@@ -17,7 +17,9 @@ div {
 	text-transform: uppercase;
 	font-weight: bold;
 }
-
- {
-	background-image: url("http://dsz7vodgjx60a.cloudfront.net/wp-content/uploads/2015/04/24094746/lebron-james-cavaliers-celtics-game-3-first-round.jpg");
+.lbj {
+	font-size: 20px;
+}
+.chef {
+	font-size: 20px
 }
