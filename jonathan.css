@@ -6,12 +6,18 @@ h1 {
 	font-weight: bold;
 	text-align: center;
 }
+body {
+	background-color: lightblue;
+}
+.lebron {
+	text-align: center;
+}
 p {
 	padding: 0;
 	margin: 0;
 	line-height: 1.5em;
 }
-div {
+.image {
 	padding: 0;
 	margin: 0;
 	text-transform: uppercase;
@@ -19,7 +25,59 @@ div {
 }
 .lbj {
 	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.babyface {
+	text-align: center;
+}
+.westbrook {
+	text-align: center;
+}
+.claw {
+	text-align: center;
+}
+.durant {
+	text-align: center;
 }
 .chef {
-	font-size: 20px
+	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.russ {
+	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.kd {
+	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.kawhi {
+	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.bron {
+	font-weight: 100;
+	font-size: 20px;
+}
+.curry {
+	font-weight: 100;
+	font-size: 20px;
+}
+
+.russell {
+	font-weight: 100;
+	font-size: 20px;
+}
+.kevin {
+	font-weight: 100;
+	font-size: 20px;
+}
+.leonard {
+	font-weight: 100;
+	font-size: 20px;
 }
